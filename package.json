@@ -15,6 +15,6 @@
     "webpack-cli": "^3.3.6"
   },
   "dependencies": {
-    "froala-editor": "^3.0.3"
+    "froala-editor": "^4.0.7"
   }
 }
